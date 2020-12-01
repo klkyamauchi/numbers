@@ -1,8 +1,8 @@
 ## Identifying Information: 
-1. Name: 
-2. Student ID: 
-3. Email: 
-4. Class: 
+1. Name: Kaitlynn Yamauchi 
+2. Student ID: 2382764
+3. Email: yamauchi@chapman.edu
+4. Class: CPSC 298-02
 5. Assignment: numbers 
 
 ## Application Purpose
